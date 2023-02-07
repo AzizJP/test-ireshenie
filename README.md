@@ -1,46 +1,40 @@
-# Getting Started with Create React App
+# Проект: Test for iReshenie
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Стек
 
-## Available Scripts
+![HTML5](https://img.shields.io/badge/-HTML5-4A4A4A?style=for-the-badge&logo=HTML5&logoColor=FF7600)
+![CSS3](https://img.shields.io/badge/-CSS3-4A4A4A?style=for-the-badge&logo=CSS3&logoColor=5871CD)
+![SASS](https://img.shields.io/badge/-Sass-4A4A4A?style=for-the-badge&logo=SASS&logoColor=EF9AEB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-4A4A4A?style=for-the-badge&logo=JavaScript&logoColor=FFE300)
+![TypeScript](https://img.shields.io/badge/-TypeScript-4A4A4A?style=for-the-badge&logo=TypeScript&logoColor=4895DB)
+![React](https://img.shields.io/badge/-React-4A4A4A?style=for-the-badge&logo=React&logoColor=73C6E5)
 
-In the project directory, you can run:
 
-### `npm start`
+### Обзор
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Интро
+- Запуск проекта
+- GitHub
+- Технологии применяемые в проекте
+- Функционал
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Интро**
 
-### `npm test`
+Тестовое задание для `iReshenie`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Запуск проекта**
 
-### `npm run build`
+`npm start` — запускает проект
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**GitHub**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Ссылка на проект в GitHubPages](https://azizjp.github.io/test-ireshenie/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Технологии применяемые в проекте**
 
-### `npm run eject`
+В проекте применяются:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Проект написан на JS с использованием библиотеки React
+- Типизация с помощью TypeScript
+- Язык для структурирования и представления содержимого - HTML5
+- Расширение CSS3 - Sass
