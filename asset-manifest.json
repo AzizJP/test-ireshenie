@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AzizJP/test-ireshenie/static/css/main.6b9e7c3b.css",
-    "main.js": "/AzizJP/test-ireshenie/static/js/main.ec6db5e4.js",
-    "static/media/logo.svg": "/AzizJP/test-ireshenie/static/media/logo.02ee640eb1ede3b9bf840d5bafe47a39.svg",
-    "static/media/eye.svg": "/AzizJP/test-ireshenie/static/media/eye.be29207ccc999d778e454a8ea31e6bae.svg",
-    "index.html": "/AzizJP/test-ireshenie/index.html",
-    "static/media/arrow.svg": "/AzizJP/test-ireshenie/static/media/arrow.be557994fbfa9fc3ef337ceb98a5fe35.svg",
-    "main.6b9e7c3b.css.map": "/AzizJP/test-ireshenie/static/css/main.6b9e7c3b.css.map",
-    "main.ec6db5e4.js.map": "/AzizJP/test-ireshenie/static/js/main.ec6db5e4.js.map"
+    "main.css": "/test-ireshenie/static/css/main.c17dc6f2.css",
+    "main.js": "/test-ireshenie/static/js/main.968bc9cf.js",
+    "static/media/logo.svg": "/test-ireshenie/static/media/logo.02ee640eb1ede3b9bf840d5bafe47a39.svg",
+    "static/media/eye.svg": "/test-ireshenie/static/media/eye.be29207ccc999d778e454a8ea31e6bae.svg",
+    "index.html": "/test-ireshenie/index.html",
+    "static/media/arrow.svg": "/test-ireshenie/static/media/arrow.be557994fbfa9fc3ef337ceb98a5fe35.svg",
+    "main.c17dc6f2.css.map": "/test-ireshenie/static/css/main.c17dc6f2.css.map",
+    "main.968bc9cf.js.map": "/test-ireshenie/static/js/main.968bc9cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b9e7c3b.css",
-    "static/js/main.ec6db5e4.js"
+    "static/css/main.c17dc6f2.css",
+    "static/js/main.968bc9cf.js"
   ]
 }
