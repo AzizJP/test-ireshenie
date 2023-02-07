@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/test-ireshenie/static/css/main.18f97238.css",
+    "main.css": "/test-ireshenie/static/css/main.48f31a50.css",
     "main.js": "/test-ireshenie/static/js/main.968bc9cf.js",
     "static/media/logo.svg": "/test-ireshenie/static/media/logo.02ee640eb1ede3b9bf840d5bafe47a39.svg",
     "static/media/eye.svg": "/test-ireshenie/static/media/eye.be29207ccc999d778e454a8ea31e6bae.svg",
     "index.html": "/test-ireshenie/index.html",
     "static/media/arrow.svg": "/test-ireshenie/static/media/arrow.be557994fbfa9fc3ef337ceb98a5fe35.svg",
-    "main.18f97238.css.map": "/test-ireshenie/static/css/main.18f97238.css.map",
+    "main.48f31a50.css.map": "/test-ireshenie/static/css/main.48f31a50.css.map",
     "main.968bc9cf.js.map": "/test-ireshenie/static/js/main.968bc9cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.18f97238.css",
+    "static/css/main.48f31a50.css",
     "static/js/main.968bc9cf.js"
   ]
 }
