@@ -27,7 +27,7 @@ $paddingLeftRightDesktop: 50px;
   }
 }
 
-@media screen and (min-width: 1600px) {
+@media screen and (min-width: 1024px) {
   .form {
     padding: 40px $paddingLeftRightDesktop;
     width: 500px - $paddingLeftRightDesktop * 2;

@@ -58,7 +58,7 @@ $symbolMarginLeftDesktop: 11px;
   }
 }
 
-@media screen and (min-width: 1600px) {
+@media screen and (min-width: 1024px) {
   .form__row {
     &_symbol {
       margin-left: $symbolMarginLeftDesktop;
